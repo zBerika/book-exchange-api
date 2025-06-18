@@ -1,0 +1,6 @@
+Django==5.0.*
+djangorestframework==3.15.*
+drf-yasg==1.21.*
+django-filter==24.2
+psycopg2-binary # PostgreSQL-ის დრაივერი (PostgreSQL driver)
+Pillow # სურათების ატვირთვისთვის (For image uploads)

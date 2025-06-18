@@ -1,0 +1,36 @@
+# ბაიტკოდირებული / ოპტიმიზებული / DLL ფაილები (Byte-compiled / optimized / DLL files)
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# დისტრიბუციები და შეფუთვა (Distributions and packaging)
+.Python
+env/
+venv/
+ENV/
+env.bak/
+.env
+.flaskenv
+.venv
+
+# Django-ს საკითხები: (Django stuff:)
+*.log
+*.pot
+*.mo
+db.sqlite3
+/media/
+/staticfiles/
+
+# IDE-ები (IDEs)
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# OS-ის ფაილები (OS)
+.DS_Store
+.Trash/
+*.swp
